@@ -8,6 +8,10 @@
   <a href="https://github.com/Leshugan/OneHandOperationPlusPort/raw/main/OneHandOperationPlusPort.apk"><b>⬇ Скачать OneHandOperationPlusPort.apk</b></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Leshugan">Мой GitHub</a> · <a href="https://t.me/Windrux">Канал Windrux в Telegram</a>
+</p>
+
 Порт фирменного приложения Samsung **One Hand Operation +** (версия 9.3.13.0) из Good Lock на телефоны других производителей. Оригинал запускается только на Samsung и опирается на закрытые функции One UI — здесь они заменены стандартными средствами Android, поэтому жесты с краёв экрана работают и на OnePlus, Xiaomi, Pixel и других.
 
 Проведите пальцем от левого или правого края экрана — и выполнится назначенное действие: «Назад», «Домой», «Недавние», шторка уведомлений, снимок экрана, блокировка, быстрые инструменты и многое другое. Все настройки, анимации и оформление — как в оригинале.

@@ -8,6 +8,10 @@
   <a href="https://github.com/Leshugan/OneHandOperationPlusPort/raw/main/OneHandOperationPlusPort.apk"><b>⬇ Download OneHandOperationPlusPort.apk</b></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Leshugan">My GitHub</a> · <a href="https://t.me/Windrux">Windrux channel on Telegram</a>
+</p>
+
 A port of Samsung's **One Hand Operation +** (version 9.3.13.0) from Good Lock to phones from other manufacturers. The original only runs on Samsung and relies on private One UI features — here they are replaced with standard Android means, so edge gestures work on OnePlus, Xiaomi, Pixel and others too.
 
 Swipe from the left or right edge of the screen and the assigned action runs: Back, Home, Recents, notification shade, screenshot, lock screen, quick tools and much more. All settings, animations and the look are the same as in the original.
